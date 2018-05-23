@@ -7,4 +7,4 @@
 * ブラウザー：Google Chrome
 
 ## History
-2018-05-23 update
+2018-05-23 fetch changes from upstream
